@@ -18,6 +18,6 @@ class ViewController: UIViewController {
     // Hello Swift ! Hello Swift !
     // Hello Swift ! Hello Swift !
     // Hello Swift ! Hello Swift !
-    // Hello Swift !
+    // Hello Swift ! Hello Swift !
 }
 
